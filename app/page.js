@@ -30,8 +30,6 @@ export default function app() {
         <Home6 className='w-full lg:max-h-screen'/>
         <Home7 className='w-full lg:max-h-screen'/>
         <Home8 className='w-full lg:max-h-screen'/>
-        <About_us className='w-full'/>
-        <Contact_US className='w-full'/>
   </div>
   
  

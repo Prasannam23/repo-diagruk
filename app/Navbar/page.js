@@ -19,11 +19,11 @@ const Navbar = () => {
         <Link href="/nabl-consultancy" className="font-semibold text-gray-600 hover:text-purple-600">
           NABL Consultancy
         </Link>
-        <Link href="/core-team" className="font-semibold text-gray-600 hover:text-purple-600">
-          Core Team
+        <Link href="/Contact_US" className="font-semibold text-gray-600 hover:text-purple-600">
+          Contact
         </Link>
-        <Link href="/venue" className="font-semibold text-gray-600 hover:text-purple-600">
-          Venue
+        <Link href="/About_us" className="font-semibold text-gray-600 hover:text-purple-600">
+          About_us
         </Link>
       </div>
 
