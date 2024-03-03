@@ -9,6 +9,9 @@ import Home7 from '../app/Home7/page';
 import Home8 from '../app/Home8/page';
 // import Home5 from '../app/Home5/page';
 import Home10 from '../app/Home10/page';
+import Home10 from '../app/About_us/page';
+import About_us from '../app/About_us/page';
+import About_us from '../app/Contact_US/page';
 
 export default function app() {
   return (
@@ -28,6 +31,8 @@ export default function app() {
         <Home6 className='w-full lg:max-h-screen'/>
         <Home7 className='w-full lg:max-h-screen'/>
         <Home8 className='w-full lg:max-h-screen'/>
+        <About_us className='w-full'/>
+        <Contact_US className='w-full'/>
   </div>
   
  
