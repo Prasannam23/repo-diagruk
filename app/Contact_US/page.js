@@ -79,7 +79,7 @@ const Contact = () => {
 </div>
 <div className='flex justify-center h-[90vh] w-full'>
 <div className='flex w-10/12 h-6/6 '>
-  <div className='lg:w-6/12 w-8/12 flex ml-9 mt-60 justify-center lg:justify-end items-center absolute h-4/6 lg:h-4/6 rounded-lg ... bg-purple-500  lg:ml-72 lg:mt-52'>
+  <div className='lg:w-6/12 w-8/12 flex ml-9 mt-64 justify-center lg:justify-end items-center absolute h-4/6 lg:h-4/6 rounded-lg ... bg-purple-500  lg:ml-72 lg:mt-52'>
     <div className='flex'>
         <div className='w-96'>
             <div>
